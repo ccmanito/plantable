@@ -1,5 +1,7 @@
 # plantable
 
+###  vue2.0 单页应用最佳实践  ####
+
 > A Vue.js project
 
 ## Build Setup
